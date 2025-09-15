@@ -1,7 +1,7 @@
-Project Name : Calculating Family Expenses       
-Team ID : NM2025TMID13819            
-Team Size : 4             
-Team Leader : PRANAV S            
-Team Member : SARVANAN R             
-Team Member : PRASATH S            
-Team Member : NARENDRA KUMAR K              
+Project Name : Calculating Family Expenses                  
+Team Id: NM2025TMID13875                
+Team Members:4             
+Team Leader: SYED RAHIM S                
+Team Member: AMANULLAH A                   
+Team Member:  SANJAY B                 
+Team  Member :  NANDHINI V      
